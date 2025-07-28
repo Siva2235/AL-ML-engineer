@@ -1,2 +1,3 @@
 # AL-ML-engineer
-I am Journey of AI/ML 
+My Journey of AI/ML Engineer
+What is AI?
